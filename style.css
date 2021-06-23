@@ -1,8 +1,11 @@
 
-body {
-	background-color: #b7d1c4;
-    border: solide;
-}
+	body {
+        background-color: #b7d1c4;
+        border: width 80px;
+        border-style:groove;
+        border-color:black;
+        }
+
 
 
 header {
@@ -12,13 +15,6 @@ header {
 }
 
 main {
-
-    border: solid;
-
-}
- 
-
-footer {
 
     border: solid;
 
