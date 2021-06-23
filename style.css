@@ -1,10 +1,25 @@
-.body header main div {
+
+body {
+	background-color: #b7d1c4;
+    border: solide;
+}
+
+
+header {
 
     border: solid;
-}
- .body { width: 400; height: 800;
 
- }
- .name {
-     color: blue;
- }
+}
+
+main {
+
+    border: solid;
+
+}
+ 
+
+footer {
+
+    border: solid;
+
+}
