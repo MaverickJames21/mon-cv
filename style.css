@@ -1,1 +1,10 @@
+.body header main div {
 
+    border: solid;
+}
+ .body { width: 400; height: 800;
+
+ }
+ .name {
+     color: blue;
+ }
