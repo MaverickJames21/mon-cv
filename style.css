@@ -1,9 +1,10 @@
 
 	body {
         background-color: #b7d1c4;
-        border: width 80px;
-        border-style:groove;
+        border: width 120px;
+        border-style:solid;border-radius: 1ch;
         border-color:black;
+        font: font-variant-numerics bold 24px/1 sans-serif;
         }
 
 
