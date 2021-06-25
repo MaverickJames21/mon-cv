@@ -1,1 +1,41 @@
+body {display: flex;
+    border-color: black;
+}
 
+.navbar{ display:flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+        
+
+}
+
+.box {display:flex;
+       background-color: rgb(188, 207, 195); 
+       width: 100px; 
+       height: 100px;
+      
+}
+
+.entete { 
+    display: flex;
+    background-color: rgb(197, 219, 209);
+    width: 1000px; 
+    height: 100px;
+
+
+}
+
+#wrap {
+    position: absolute;
+    width : 700px;
+    height:99%;
+}
+ #photo {
+     width : auto;
+     height : auto;
+ } 
+
+ img {
+     width: 150px;
+     height: auto;
+ }
