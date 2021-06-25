@@ -2,6 +2,7 @@ body {display: flex;
     border-color: black;
 }
 
+<<<<<<< HEAD
 .navbar{ display:flex;
     justify-content: flex-end;
     align-items: flex-end;
@@ -39,3 +40,26 @@ body {display: flex;
      width: 150px;
      height: auto;
  }
+=======
+	body {
+        background-color: #b7d1c4;
+        border: width 120px;
+        border-style:solid;border-radius: 1ch;
+        border-color:black;
+        font: font-variant-numerics bold 24px/1 sans-serif;
+        }
+
+
+
+header {
+
+    border: solid;
+
+}
+
+main {
+
+    border: solid;
+
+}
+>>>>>>> 15edee346604a298f1ffc94cf7861e5eeb068959
