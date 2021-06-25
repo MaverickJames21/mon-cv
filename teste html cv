@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title>Titre de la page</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js"></script>
+  <title>Mon CV et mes expériences</title>
+</head>
+<header>
+
+</header>
+<body>
+  
+  <!-- Le reste du contenu -->
+  <p>
+   
+<div class="content">
+
+    <img src="image/Maverick.JPG" alt="image" height="200" width= "300">
+  </p>
+
+</div>
+
+<h1>Maverick James Hegi</h1>
+<img src="" alt="">
+<h2>Programmation Web</h2>
+
+<h3>Toujours à la recherche de nouveaux challenges dans le monde créatif du web.</h3>
+<h3>4 ans d'expérience dans la vente et du visual merchandising. Excellent sens de la communication et du service à la clientèle & Connaissance du terrain - Création de site web - Esprit d'équipe - Résistance au stress - Bonne présentation - Méthodique - Flexible - Polyvalent - Esprit curieux et créatif</h3>
+
+  <div>
+    <h2>COMPETENCES</h2>
+
+    <h3>
+     Compétences commerciales <br>
+    </h3>Présentation
+
+        <ul>
+            
+            <li>Development et entretien des relations clientèle & partenaires</li>
+            <li>Formation des Junior Product Advisors</li>
+            <li>Team Leader Point of Sales</li>
+            <li>Responsable des collaborateurs</li>
+            <li>Motivation et formation</li>
+            <li>Service à la clientèle</li>
+            <li>Profiling de la clientèle</li>
+            <li>Appliquer les méthodes d'optimisation des ventes</li>
+
+        </ul>
+
+        <h2>Compétences en visual merchandising et marketing</h2>
+
+        <ul>
+
+            <li>Visual merchandising</li>
+            <li>Participation à la stratégie marketing</li>
+            <li>Disposition des points de vente</li>
+            <li>Alignement de la communication</li> 
+            <li>Entre Product Advisors clients et siège</li>
+            <li>Etudes des besoins de la clientèle</li>
+
+        </ul>
+
+        <h2>EXPERIENCE</h2>
+
+
+        <p><strong>Brand Ambassador & Senior Product Advisor</strong>2019</p>
+        <p>Responsable de la représentation de Juul</p>
+        <p>Juul Labs,Inc. (Genève)</p><br>
+
+        <p><strong>Sales Expert</strong> 2016 - 2019</p>
+        <p>Responsable de la représentation de IQOS</p>
+        <p>Philip Morris Switzerland Inc. (Genève)</p><br>
+        <p>Vallet Parking Friend (Genève) 2014 - 2016</p>
+        <p>Archiviste HUG (Genève) 2012 - 2013</p>
+
+
+
+
+          
+
+  </div>
+
+
+  ...
+</body>
+</html>
+
+
+header, main, div{
+    border:solid;
+    border-color: black;
+}
+
+#wrap {
+    position: absolute;
+    width : 700px;
+    height: 99%;
+}
+ #photo {
+     width : auto;
+     height : auto;
+ } 
+
+ img {
+     width: 150px;
+     height: auto;
+ }
