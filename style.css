@@ -1,65 +1,202 @@
-body {display: flex;
-    border-color: black;
-}
-
-<<<<<<< HEAD
-.navbar{ display:flex;
-    justify-content: flex-end;
-    align-items: flex-end;
-        
-
-}
-
-.box {display:flex;
-       background-color: rgb(188, 207, 195); 
-       width: 100px; 
-       height: 100px;
-      
-}
-
-.entete { 
-    display: flex;
-    background-color: rgb(197, 219, 209);
-    width: 1000px; 
-    height: 100px;
-
-
-}
-
-#wrap {
-    position: absolute;
-    width : 700px;
-    height:99%;
-}
- #photo {
-     width : auto;
-     height : auto;
- } 
-
- img {
-     width: 150px;
-     height: auto;
- }
-=======
-	body {
-        background-color: #b7d1c4;
-        border: width 120px;
-        border-style:solid;border-radius: 1ch;
-        border-color:black;
-        font: font-variant-numerics bold 24px/1 sans-serif;
-        }
-
-
-
 header {
+    border: 2px solid red;
+    width: 100%;
+    height: 50px;
+    display: flex;
 
-    border: solid;
+
+}
+
+main{
+    border: 2px solid rgb(72, 7, 175);
+    width: 100%;
+    height: 1290px;
 
 }
 
-main {
-
-    border: solid;
+.nom{
+    border: 2px solid rgb(33, 139, 39);
+    width: 40%;
+    height: 50px;
+    background-color: #ffb094;
 
 }
->>>>>>> 15edee346604a298f1ffc94cf7861e5eeb068959
+
+nav{
+    border: 2px solid rgb(248, 138, 224);
+    width: 60%;
+    height: 50px;
+    display: flex;
+    background-color: rgb(178, 228, 228);
+
+}
+
+.img1{
+    border: 2px solid rgb(15, 45, 180);
+    width: 25%;
+    height: 300px;
+    background-color: rgb(0, 0, 0);
+}
+
+img {
+    display: block;
+    max-width:330px;
+    max-height:195px;
+    width: 100%;
+    height: 500px;
+  }
+  
+.description1{
+    border: 2px solid rgb(100, 3, 100);
+    width: 38%;
+    height: 300px;
+    background-color: rgb(252, 248, 192);
+}
+
+.img2{
+    border: 2px solid rgb(15, 180, 111);
+    width: 37%;
+    height: 300px;
+    background-color: ;
+}
+
+.section1{
+    display: flex;
+
+}
+
+
+    .img3{
+        border: 2px solid rgb(15, 45, 180);
+        width: 35%;
+        height: 300px;
+    }
+    
+    
+    .description2{
+        border: 2px solid rgb(100, 3, 100);
+        width: 30%;
+        height: 300px;
+        background-color: rgb(209, 177, 219);
+    }
+    
+    .img4{
+        border: 2px solid rgb(15, 180, 111);
+        width: 45%;
+        height: 300px;
+    }
+    
+    .section2{
+        display: flex;
+    }
+
+    .description3{
+        border: 2px solid rgb(15, 45, 180);
+        width: 30%;
+        height: 300px;
+        background-color: rgb(233, 148, 148);
+    }
+    
+    
+    .img5{
+        border: 2px solid rgb(100, 3, 100);
+        width: 40%;
+        height: 300px;
+    }
+    
+    .description4{
+        border: 2px solid rgb(15, 180, 111);
+        width: 30%;
+        height: 300px;
+        background-color: rgb(212, 243, 166);
+    }
+    
+    .section3{
+        display: flex;
+    }
+
+    .img6{
+        border: 2px solid rgb(15, 45, 180);
+        width: 40%;
+        height: 300px;
+    }
+    
+    
+    .description5{
+        border: 2px solid rgb(100, 3, 100);
+        width: 35%;
+        height: 300px;
+        background-color: rgb(230, 190, 210);
+    }
+    
+    .img7{
+        border: 2px solid rgb(15, 180, 111);
+        width: 35%;
+        height: 300px;
+    }
+    
+    .section4{
+        display: flex;
+    }
+
+    .lien1{
+        border: 2px solid rgb(15, 45, 180);
+        width: 33%;
+        height: 70px;
+        
+    }
+    
+    
+    .lien2{
+        border: 2px solid rgb(100, 3, 100);
+        width: 33%;
+        height: 70px;
+    }
+    
+    .lien3{
+        border: 2px solid rgb(15, 180, 111);
+        width: 33%;
+        height: 70px;
+    }
+    
+    .section5{
+        display: flex;
+    }
+
+    .accueil{
+        border: 2px solid red;
+        width: 20%;
+        height: 20px;
+    }
+    .apropos{
+        border: 2px solid red;
+        width: 20%;
+        height: 20px;
+    }
+    .projets{
+        border: 2px solid red;
+        width: 20%;
+        height: 20px;
+    }
+
+
+    .facebook{
+        border: 2px solid red;
+        width: 20%;
+        height: 20px;
+    }
+
+    .Linkedin{
+        border: 2px solid red;
+        width: 20%;
+        height: 20px;
+    }
+
+    .instagram{
+        border: 2px solid red;
+        width: 20%;
+        height: 20px;
+    }
+
+
+
